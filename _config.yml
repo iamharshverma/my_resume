@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Harsh Verma"
+description: "Master Graduate University of Texas | Software Engineer (Data Science) | Hike | ISRO"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,24 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Harsh Verma"
+resume_title:                   "Master Graduate University of Texas | Software Engineer (Data Science) | Hike | ISRO"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "harshverma14oct@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "2145162162"
+resume_contact_address:         "Texas, USA"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p> Future belongs to those who see possibilities before they become obvious, I Believe in three P's of professional life : passion, persistence and people to learn, grow, solve problems mutually to make things happen.
+<br>
+Always open to talk about Ideas, Research, Entrepreneurship, Scalable softwares, conference events and Data|Machine learning solutions.<br>
+Have an amazing Idea, research, event|conference where you would like to meet and talk; feel free to drop me a message or reach out at-> <b>harshverma14oct@gmail.com</b>
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +49,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/iamharshverma"
+  resume_twitter_url:           "http://twitter.com/harshverma59"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/harshverma59/"
+  resume_instagram_url:         "https://www.instagram.com/intelliovardhan"
+  resume_website_url:           "http://harshverma.me"
+  resume_medium_url:            "https://medium.com/@harshverma59"
 resume_print_social_links:      true
 
 # Design settings
